@@ -1,4 +1,4 @@
-# Ogrenci-Yurdu-Otomasyonu-Py
+# Ogrenci-Yurdu-Otomasyonu
 * Bir öğrenci yurdu öğrencilerine ait verilerin kontrolünü sağlayabilmek için bir 
   otomasyon programı talep etmektedir.
 * Programdan istenenler:
